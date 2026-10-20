@@ -17,5 +17,9 @@ To install and use the toolbox, we suggest to follow the instructions below.
 1. install `Anaconda` for a more interactive and beginner-friendly interface, or `Miniconda` for a more simple and compact use.
 2. download this repository in your device.
 3. install the environment that comes in this repository (called `environment.yml` file). This is usually done by running the following command in the Anaconda Prompt:
-      ```conda env create -f environment.yml```
-4. 
+      ```conda env create -f environment.yml```.
+Be sure to do this in the same directory where you downloaded this repository. 
+
+After the CONDA environment is created, one is ready to use all the tools in this project. 
+
+For a tutorial on how to use these tools, activate the environment, run Jupyter Lab (or similar), and open the `tutorial.ipynb` notebook.
