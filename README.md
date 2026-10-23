@@ -22,4 +22,6 @@ Be sure to do this in the same directory where you downloaded this repository.
 
 After the CONDA environment is created, one is ready to use all the tools in this project. 
 
-For a tutorial on how to use these tools, activate the environment, run Jupyter Lab (or similar), and open the `tutorial.ipynb` notebook.
+For a tutorial on how to use this tools, activate the environment, run Jupyter Lab (or similar), and open the `tutorial.ipynb` notebook.
+
+For any questions about the tutorial, feel free to contact.
