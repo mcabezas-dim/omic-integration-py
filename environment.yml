@@ -1,0 +1,43 @@
+name: Omic_Integration
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+dependencies:
+  - python=3.13
+
+  # Core Data Science
+  - numpy
+  - pandas
+  - scipy
+  - statsmodels
+  
+  # Machine Learning & Math
+  - scikit-learn
+  - umap-learn
+  - kneed 
+  
+  # Visualization
+  - matplotlib
+  - seaborn
+  
+  # Bioinformatics / Omics
+  - scanpy
+  - muon  
+  - mofapy2
+  - mofax  
+  - anndata
+  - mudata
+  - scikit-bio
+  
+  # Jupyter / Interactive
+  - jupyterlab
+  - ipykernel
+  - ipywidgets
+  
+  # Utilities
+  - tqdm
+  - pip
+  - pip:
+    - partipy  
